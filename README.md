@@ -4,11 +4,9 @@ This project focuses on analyzing pizza sales data to uncover valuable business 
 
 ## Project Structure
 
-- **Raw_Dataset.xlsx** → Original dataset (as received)
+- **Raw Dataset.xlsx** → Original dataset (as received)
 
-- **Cleaned_Dataset.xlsx** → Processed dataset after data cleaning
-
-- **Pizza_Sales_Dashboard.xlsx** → Interactive Excel dashboard
+- **Pizza Sales Dataset.xlsx** → Processed dataset after data cleaning and analysis
 
 - **Dashboard.PNG** → Image preview of the dashboard
 
