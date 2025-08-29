@@ -54,7 +54,7 @@ This project focuses on analyzing pizza sales data to uncover valuable business 
 
 - Designed a professional dashboard with clear KPIs and charts
   
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.PNG)
 
 ## **📊 Key Insights from the Dashboard**
 
