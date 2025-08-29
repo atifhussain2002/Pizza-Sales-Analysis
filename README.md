@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis
+# Pizza Sales Analysis Dashboard with Excel
 
 This project focuses on analyzing pizza sales data to uncover valuable business insights. The goal was to clean, process, and analyze raw sales data, and finally present the results in a professional Excel dashboard.
 
