@@ -10,7 +10,7 @@ This project focuses on analyzing pizza sales data to uncover valuable business 
 
 - **Pizza_Sales_Dashboard.xlsx** → Interactive Excel dashboard
 
-- **Dashboard_Snapshot.png** → Image preview of the dashboard
+- **Dashboard.PNG** → Image preview of the dashboard
 
 ## 🔄 Workflow & Process
 
